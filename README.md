@@ -1,6 +1,8 @@
 # Magento 2 Daily Deal Extension
 
-[Daily Deal](https://www.ulmod.com/daily-deal-for-magento-2.html) is a  Magento 2 extension that allows you to create an unlimited number of deals and display them on SEO optimized landing page or at any page and position of your site. Run flash sales with ease in your Magento 2 store.
+[Daily Deal](https://www.ulmod.com/daily-deal-for-magento-2.html) is a Magento 2 extension that allows you to generate hot deals, daily deals, special offers, and display them at any page and position of your site.
+
+With Magento 2 Daily Deal, you can create an unlimited number of deals and display them on SEO optimized landing page or at any page and position of your site. Run flash sales with ease in your Magento 2 store.
 
 <a href="https://www.ulmod.com/daily-deal-for-magento-2.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
 
@@ -10,6 +12,7 @@
 * Support a dedicated and optimized for SEO page to display all your store deals
 * Support widget to display deals at home, category, product, CMS pages, and any other pages and position
 * Support countdown timer to urge buyers to make decisions
+* Support fixed and percentage discount type
 * Ability to display deals link page at the top and footer links of the page;
 * Ability to display deals at the sidebar and any other positions of the page
 * Manage deals from the backend
